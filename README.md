@@ -10,7 +10,7 @@
 
 I'm an aspiring Data & Business Analyst with hands-on experience in SQL, Excel, and Power BI. I spent 6 months as a Business Analyst intern where I worked on UAT testing, Jira-based project tracking, process documentation using MS Visio, and data reporting using Excel and SQL.
 
-I'm currently building a 3-project analytics portfolio covering retail sales, HR analytics, and e-commerce funnel analysis — all using free, industry-standard tools.
+I'm currently building a 3-project analytics portfolio covering retail sales, HR analytics, and e-commerce funnel analysis all using free, industry-standard tools.
 
 ---
 
